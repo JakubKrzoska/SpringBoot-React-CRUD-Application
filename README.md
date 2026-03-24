@@ -46,8 +46,8 @@ Building this application bridged the gap between enterprise Java development an
 
 ## 📷 Screenshots
 
-![java fullstack1](java_fullstack.png)
-![java fullstack2](java_fullstack2.png)
+![java fullstack1](/fullstack-front/public/java_fullstack.png)
+![java fullstack2](/fullstack-front/public/java_fullstack2.png)
 
 ## 🚀 How It Works & Getting Started
 
